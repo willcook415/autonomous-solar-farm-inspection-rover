@@ -70,7 +70,7 @@ Phase 1 – **Concept Design** ⏳ (in progress)
 
 - Chassis and drive system concepts
 
-- ![Initial Rover Concepts](renders/phase1_initial_concepts.png)  
+ ![Initial Rover Concepts](renders/phase1_initial_concepts.png)  
 _See [concept notes](renders/phase1_concept_notes.md) for details._
 
 - Sensor suite selection
